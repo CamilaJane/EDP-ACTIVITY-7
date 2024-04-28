@@ -1,0 +1,12 @@
+C:\Users\Cyrus\source\repos\LogIn Form\LogIn Form\bin\Debug\LogIn Form.exe.config
+C:\Users\Cyrus\source\repos\LogIn Form\LogIn Form\bin\Debug\LogIn Form.exe
+C:\Users\Cyrus\source\repos\LogIn Form\LogIn Form\bin\Debug\LogIn Form.pdb
+C:\Users\Cyrus\source\repos\LogIn Form\LogIn Form\obj\Debug\LogIn Form.csproj.AssemblyReference.cache
+C:\Users\Cyrus\source\repos\LogIn Form\LogIn Form\obj\Debug\LogIn_Form.Form1.resources
+C:\Users\Cyrus\source\repos\LogIn Form\LogIn Form\obj\Debug\LogIn_Form.Properties.Resources.resources
+C:\Users\Cyrus\source\repos\LogIn Form\LogIn Form\obj\Debug\LogIn Form.csproj.GenerateResource.cache
+C:\Users\Cyrus\source\repos\LogIn Form\LogIn Form\obj\Debug\LogIn Form.csproj.CoreCompileInputs.cache
+C:\Users\Cyrus\source\repos\LogIn Form\LogIn Form\obj\Debug\LogIn Form.exe
+C:\Users\Cyrus\source\repos\LogIn Form\LogIn Form\obj\Debug\LogIn Form.pdb
+C:\Users\Cyrus\source\repos\LogIn Form\LogIn Form\obj\Debug\LogIn_Form.Dashboard.resources
+C:\Users\Cyrus\source\repos\LogIn Form\LogIn Form\obj\Debug\LibrarySystem.Form1.resources
