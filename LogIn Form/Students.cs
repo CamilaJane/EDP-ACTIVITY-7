@@ -172,5 +172,12 @@ namespace LogIn_Form
 
             MessageBox.Show("Excel file created successfully: " + newFilePath);
         }
+
+        private void buttonBack_Click(object sender, EventArgs e)
+        {
+            Dashboard dashboard = new Dashboard();
+            this.Hide();
+            dashboard.Show();
+        }
     }
 }

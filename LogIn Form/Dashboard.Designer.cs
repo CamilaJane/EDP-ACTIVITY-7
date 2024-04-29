@@ -33,7 +33,6 @@
             this.label1 = new System.Windows.Forms.Label();
             this.panelUser = new System.Windows.Forms.Panel();
             this.pictureBox8 = new System.Windows.Forms.PictureBox();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panelIcons = new System.Windows.Forms.Panel();
             this.Acc = new System.Windows.Forms.Label();
             this.pictureBox7 = new System.Windows.Forms.PictureBox();
@@ -69,14 +68,13 @@
             this.panelDashhead = new System.Windows.Forms.Panel();
             this.label2 = new System.Windows.Forms.Label();
             this.panelsidebar = new System.Windows.Forms.Panel();
-            this.admin = new System.Windows.Forms.TextBox();
             this.buttonLogOut = new System.Windows.Forms.Button();
             this.panelTitle = new System.Windows.Forms.Panel();
             this.labelHeader = new System.Windows.Forms.Label();
+            this.logged = new System.Windows.Forms.TextBox();
             this.flowLayoutPanel1.SuspendLayout();
             this.panelUser.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panelIcons.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
@@ -132,16 +130,6 @@
             this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox8.TabIndex = 12;
             this.pictureBox8.TabStop = false;
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(6, 533);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(48, 53);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox1.TabIndex = 0;
-            this.pictureBox1.TabStop = false;
             // 
             // panelIcons
             // 
@@ -518,8 +506,7 @@
             // panelsidebar
             // 
             this.panelsidebar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(228)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
-            this.panelsidebar.Controls.Add(this.admin);
-            this.panelsidebar.Controls.Add(this.pictureBox1);
+            this.panelsidebar.Controls.Add(this.logged);
             this.panelsidebar.Controls.Add(this.buttonLogOut);
             this.panelsidebar.Controls.Add(this.panelUser);
             this.panelsidebar.Controls.Add(this.panelIcons);
@@ -530,22 +517,12 @@
             this.panelsidebar.TabIndex = 5;
             this.panelsidebar.Paint += new System.Windows.Forms.PaintEventHandler(this.panel6_Paint);
             // 
-            // admin
-            // 
-            this.admin.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(228)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
-            this.admin.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.admin.Location = new System.Drawing.Point(60, 547);
-            this.admin.Multiline = true;
-            this.admin.Name = "admin";
-            this.admin.Size = new System.Drawing.Size(75, 30);
-            this.admin.TabIndex = 12;
-            // 
             // buttonLogOut
             // 
             this.buttonLogOut.BackColor = System.Drawing.Color.IndianRed;
             this.buttonLogOut.Font = new System.Drawing.Font("Arial Rounded MT Bold", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonLogOut.ForeColor = System.Drawing.Color.White;
-            this.buttonLogOut.Location = new System.Drawing.Point(141, 540);
+            this.buttonLogOut.Location = new System.Drawing.Point(79, 480);
             this.buttonLogOut.Name = "buttonLogOut";
             this.buttonLogOut.Size = new System.Drawing.Size(100, 37);
             this.buttonLogOut.TabIndex = 5;
@@ -575,6 +552,16 @@
             this.labelHeader.TabIndex = 7;
             this.labelHeader.Text = "Library System";
             // 
+            // logged
+            // 
+            this.logged.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(228)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.logged.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.logged.Location = new System.Drawing.Point(12, 547);
+            this.logged.Multiline = true;
+            this.logged.Name = "logged";
+            this.logged.Size = new System.Drawing.Size(224, 30);
+            this.logged.TabIndex = 12;
+            // 
             // Dashboard
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -589,7 +576,6 @@
             this.flowLayoutPanel1.PerformLayout();
             this.panelUser.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.panelIcons.ResumeLayout(false);
             this.panelIcons.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
@@ -626,7 +612,6 @@
 
         private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel1;
         private System.Windows.Forms.Panel panelUser;
-        private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.Panel panelDashhome;
         private System.Windows.Forms.Panel panelTitle;
@@ -667,6 +652,6 @@
         private System.Windows.Forms.PictureBox pictureBox7;
         private System.Windows.Forms.Label Acc;
         private System.Windows.Forms.PictureBox pictureBox8;
-        private System.Windows.Forms.TextBox admin;
+        private System.Windows.Forms.TextBox logged;
     }
 }

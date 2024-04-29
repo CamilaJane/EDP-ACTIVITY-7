@@ -61,12 +61,7 @@ namespace LogIn_Form
 
         }
 
-        private void pictureBox4_Click(object sender, EventArgs e)
-        {
-            var Dashboard = new Dashboard();
-            this.Hide();
-            Dashboard.Show();
-        }
+
 
         private void buttonBack_Click(object sender, EventArgs e)
         {
