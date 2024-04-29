@@ -69,8 +69,11 @@ namespace LogIn_Form
                     updateCmd.Parameters.AddWithValue("@username", username);
                     updateCmd.ExecuteNonQuery();
 
+                    string loggedInUsername = username;
+
+
                     // MessageBox.Show("You are now logged in");
-                    Dashboard dashboard = new Dashboard();
+                    Dashboard dashboard = new Dashboard(loggedInUsername);
                     this.Hide();
                     dashboard.Show();
                 }

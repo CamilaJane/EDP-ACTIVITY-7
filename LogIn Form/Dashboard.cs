@@ -15,9 +15,11 @@ namespace LogIn_Form
 {
     public partial class Dashboard : Form
     {
+
         public Dashboard()
         { 
             InitializeComponent();
+
         }
 
         private void pictureBox2_Click(object sender, EventArgs e)

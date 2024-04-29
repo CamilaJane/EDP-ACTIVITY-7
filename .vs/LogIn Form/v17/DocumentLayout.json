@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|c:\\users\\cyrus\\source\\repos\\edp\\edp-activity-7\\login form\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|solutionrelative:login form\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\login form\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|solutionrelative:login form\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\login form\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|solutionrelative:login form\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\login form\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|solutionrelative:login form\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|c:\\users\\cyrus\\source\\repos\\edp\\edp-activity-7\\login form\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|solutionrelative:login form\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\login form\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|solutionrelative:login form\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|c:\\users\\cyrus\\source\\repos\\edp\\edp-activity-7\\login form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|solutionrelative:login form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\login form\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|solutionrelative:login form\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\login form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|solutionrelative:login form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|c:\\users\\cyrus\\source\\repos\\edp\\edp-activity-7\\login form\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|solutionrelative:login form\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|c:\\users\\cyrus\\source\\repos\\edp\\edp-activity-7\\login form\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|solutionrelative:login form\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|c:\\users\\cyrus\\source\\repos\\edp\\edp-activity-7\\login form\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,16 +31,28 @@
       "RelativeMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|solutionrelative:login form\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|c:\\users\\cyrus\\source\\repos\\edp\\edp-activity-7\\login form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|solutionrelative:login form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|c:\\users\\cyrus\\source\\repos\\edp\\edp-activity-7\\login form\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|solutionrelative:login form\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|c:\\users\\cyrus\\source\\repos\\edp\\edp-activity-7\\login form\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|solutionrelative:login form\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\login form\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|solutionrelative:login form\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\login form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|solutionrelative:login form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|c:\\users\\cyrus\\source\\repos\\edp\\edp-activity-7\\login form\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|solutionrelative:login form\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\login form\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|solutionrelative:login form\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\login form\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|solutionrelative:login form\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\login form\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|solutionrelative:login form\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C98319F-D46C-4D95-A906-7FE1B56EB0DE}|LogIn Form\\Library System.csproj|C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\login form\\recover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -78,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 90,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,108 +90,134 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Users.cs",
-              "DocumentMoniker": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\Users.cs",
-              "RelativeDocumentMoniker": "LogIn Form\\Users.cs",
-              "ToolTip": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\Users.cs",
-              "RelativeToolTip": "LogIn Form\\Users.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAxwEUAAAAyAAAA",
+              "DocumentIndex": 2,
+              "Title": "LogIn.cs",
+              "DocumentMoniker": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\LogIn.cs",
+              "RelativeDocumentMoniker": "LogIn Form\\LogIn.cs",
+              "ToolTip": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\LogIn.cs*",
+              "RelativeToolTip": "LogIn Form\\LogIn.cs*",
+              "ViewState": "AQIAADIAAAAAAAAAAAAlwEsAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T04:39:38.781Z",
+              "WhenOpened": "2024-04-29T05:18:51.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\Students.cs",
+              "RelativeDocumentMoniker": "LogIn Form\\Students.cs",
+              "ToolTip": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\Students.cs*",
+              "RelativeToolTip": "LogIn Form\\Students.cs*",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAhwLEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T05:00:32.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Books.cs",
               "DocumentMoniker": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\Books.cs",
               "RelativeDocumentMoniker": "LogIn Form\\Books.cs",
-              "ToolTip": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\Books.cs*",
-              "RelativeToolTip": "LogIn Form\\Books.cs*",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAEEAAAAuAAAA",
+              "ToolTip": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\Books.cs",
+              "RelativeToolTip": "LogIn Form\\Books.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAawEMAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-29T04:39:34.604Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Dashboard.cs",
               "DocumentMoniker": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\Dashboard.cs",
               "RelativeDocumentMoniker": "LogIn Form\\Dashboard.cs",
-              "ToolTip": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\Dashboard.cs",
-              "RelativeToolTip": "LogIn Form\\Dashboard.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "ToolTip": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\Dashboard.cs*",
+              "RelativeToolTip": "LogIn Form\\Dashboard.cs*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowBAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-29T04:02:13.143Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Users.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\Users.cs",
-              "RelativeDocumentMoniker": "LogIn Form\\Users.cs",
-              "ToolTip": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\Users.cs [Design]",
-              "RelativeToolTip": "LogIn Form\\Users.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T05:57:35.13Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Students.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\Students.cs",
-              "RelativeDocumentMoniker": "LogIn Form\\Students.cs",
-              "ToolTip": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\Students.cs [Design]",
-              "RelativeToolTip": "LogIn Form\\Students.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T05:57:32.098Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Books.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\Books.cs",
               "RelativeDocumentMoniker": "LogIn Form\\Books.cs",
-              "ToolTip": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\Books.cs [Design]*",
-              "RelativeToolTip": "LogIn Form\\Books.cs [Design]*",
+              "ToolTip": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\Books.cs [Design]",
+              "RelativeToolTip": "LogIn Form\\Books.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T05:57:25.875Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Transaction.cs",
               "DocumentMoniker": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\Transaction.cs",
               "RelativeDocumentMoniker": "LogIn Form\\Transaction.cs",
               "ToolTip": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\Transaction.cs",
               "RelativeToolTip": "LogIn Form\\Transaction.cs",
-              "ViewState": "AQIAABsBAAAAAAAAAAAwwE8BAAAqAAAA",
+              "ViewState": "AQIAADQBAAAAAAAAAAAqwE8BAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-29T04:39:25.111Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "About.cs",
               "DocumentMoniker": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\About.cs",
               "RelativeDocumentMoniker": "LogIn Form\\About.cs",
               "ToolTip": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\About.cs",
               "RelativeToolTip": "LogIn Form\\About.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAIAzwCkAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-29T04:39:41.622Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\Dashboard.cs",
+              "RelativeDocumentMoniker": "LogIn Form\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\Dashboard.cs [Design]*",
+              "RelativeToolTip": "LogIn Form\\Dashboard.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T05:57:28.626Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogIn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\LogIn.cs",
+              "RelativeDocumentMoniker": "LogIn Form\\LogIn.cs",
+              "ToolTip": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\LogIn.cs [Design]*",
+              "RelativeToolTip": "LogIn Form\\LogIn.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T05:57:29.437Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\Users.cs",
+              "RelativeDocumentMoniker": "LogIn Form\\Users.cs",
+              "ToolTip": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\Users.cs",
+              "RelativeToolTip": "LogIn Form\\Users.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAASwEUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T04:39:38.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Transaction.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\Transaction.cs",
               "RelativeDocumentMoniker": "LogIn Form\\Transaction.cs",
@@ -199,20 +229,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LogIn.cs",
-              "DocumentMoniker": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\LogIn.cs",
-              "RelativeDocumentMoniker": "LogIn Form\\LogIn.cs",
-              "ToolTip": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\LogIn.cs",
-              "RelativeToolTip": "LogIn Form\\LogIn.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAkwEgAAABAAAAA",
+              "DocumentIndex": 11,
+              "Title": "Students.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\Students.cs",
+              "RelativeDocumentMoniker": "LogIn Form\\Students.cs",
+              "ToolTip": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\Students.cs [Design]*",
+              "RelativeToolTip": "LogIn Form\\Students.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T04:28:45.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T05:57:32.098Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "Users.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\Users.cs",
+              "RelativeDocumentMoniker": "LogIn Form\\Users.cs",
+              "ToolTip": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\Users.cs [Design]",
+              "RelativeToolTip": "LogIn Form\\Users.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T05:57:35.13Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Recover.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\Recover.cs",
               "RelativeDocumentMoniker": "LogIn Form\\Recover.cs",
@@ -223,31 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "LogIn.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\LogIn.cs",
-              "RelativeDocumentMoniker": "LogIn Form\\LogIn.cs",
-              "ToolTip": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\LogIn.cs [Design]",
-              "RelativeToolTip": "LogIn Form\\LogIn.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T05:57:29.437Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Dashboard.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\Dashboard.cs",
-              "RelativeDocumentMoniker": "LogIn Form\\Dashboard.cs",
-              "ToolTip": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\Dashboard.cs [Design]",
-              "RelativeToolTip": "LogIn Form\\Dashboard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T05:57:28.626Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Create.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\Create.cs",
               "RelativeDocumentMoniker": "LogIn Form\\Create.cs",
@@ -258,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Add Student.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\Add Student.cs",
               "RelativeDocumentMoniker": "LogIn Form\\Add Student.cs",
@@ -269,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "About.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\About.cs",
               "RelativeDocumentMoniker": "LogIn Form\\About.cs",
@@ -281,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Add Book.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Cyrus\\source\\repos\\EDP\\EDP-ACTIVITY-7\\LogIn Form\\Add Book.cs",
               "RelativeDocumentMoniker": "LogIn Form\\Add Book.cs",
