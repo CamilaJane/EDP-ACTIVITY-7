@@ -69,7 +69,7 @@
             this.panelDashhead = new System.Windows.Forms.Panel();
             this.label2 = new System.Windows.Forms.Label();
             this.panelsidebar = new System.Windows.Forms.Panel();
-            this.adminname = new System.Windows.Forms.LinkLabel();
+            this.admin = new System.Windows.Forms.TextBox();
             this.buttonLogOut = new System.Windows.Forms.Button();
             this.panelTitle = new System.Windows.Forms.Panel();
             this.labelHeader = new System.Windows.Forms.Label();
@@ -518,7 +518,7 @@
             // panelsidebar
             // 
             this.panelsidebar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(228)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
-            this.panelsidebar.Controls.Add(this.adminname);
+            this.panelsidebar.Controls.Add(this.admin);
             this.panelsidebar.Controls.Add(this.pictureBox1);
             this.panelsidebar.Controls.Add(this.buttonLogOut);
             this.panelsidebar.Controls.Add(this.panelUser);
@@ -530,18 +530,15 @@
             this.panelsidebar.TabIndex = 5;
             this.panelsidebar.Paint += new System.Windows.Forms.PaintEventHandler(this.panel6_Paint);
             // 
-            // adminname
+            // admin
             // 
-            this.adminname.AutoSize = true;
-            this.adminname.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.adminname.ForeColor = System.Drawing.Color.Black;
-            this.adminname.LinkColor = System.Drawing.Color.IndianRed;
-            this.adminname.Location = new System.Drawing.Point(60, 548);
-            this.adminname.Name = "adminname";
-            this.adminname.Size = new System.Drawing.Size(50, 21);
-            this.adminname.TabIndex = 12;
-            this.adminname.TabStop = true;
-            this.adminname.Text = "admin";
+            this.admin.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(228)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.admin.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.admin.Location = new System.Drawing.Point(60, 547);
+            this.admin.Multiline = true;
+            this.admin.Name = "admin";
+            this.admin.Size = new System.Drawing.Size(75, 30);
+            this.admin.TabIndex = 12;
             // 
             // buttonLogOut
             // 
@@ -669,7 +666,7 @@
         private System.Windows.Forms.Button buttonLogOut;
         private System.Windows.Forms.PictureBox pictureBox7;
         private System.Windows.Forms.Label Acc;
-        private System.Windows.Forms.LinkLabel adminname;
         private System.Windows.Forms.PictureBox pictureBox8;
+        private System.Windows.Forms.TextBox admin;
     }
 }
