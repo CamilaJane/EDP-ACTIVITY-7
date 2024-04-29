@@ -31,6 +31,7 @@
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Students));
             this.panel2 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
@@ -50,6 +51,7 @@
             this.btnsearch = new System.Windows.Forms.Button();
             this.search = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
+            this.buttonBack = new System.Windows.Forms.Button();
             this.panel2.SuspendLayout();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.datagrid)).BeginInit();
@@ -58,6 +60,7 @@
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(134)))), ((int)(((byte)(112)))), ((int)(((byte)(112)))));
+            this.panel2.Controls.Add(this.buttonBack);
             this.panel2.Controls.Add(this.label1);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel2.Location = new System.Drawing.Point(0, 0);
@@ -258,6 +261,19 @@
             this.button1.Text = "ADD NEW +";
             this.button1.UseVisualStyleBackColor = true;
             // 
+            // buttonBack
+            // 
+            this.buttonBack.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("buttonBack.BackgroundImage")));
+            this.buttonBack.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
+            this.buttonBack.Cursor = System.Windows.Forms.Cursors.Default;
+            this.buttonBack.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(213)))), ((int)(((byte)(180)))), ((int)(((byte)(180)))));
+            this.buttonBack.Location = new System.Drawing.Point(0, 0);
+            this.buttonBack.Name = "buttonBack";
+            this.buttonBack.Size = new System.Drawing.Size(43, 43);
+            this.buttonBack.TabIndex = 8;
+            this.buttonBack.UseVisualStyleBackColor = true;
+            this.buttonBack.Click += new System.EventHandler(this.buttonBack_Click);
+            // 
             // Students
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -298,5 +314,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn txtcollege;
         private System.Windows.Forms.DataGridViewTextBoxColumn txtborrowedbooks;
         private System.Windows.Forms.DataGridViewButtonColumn btnOptions;
+        private System.Windows.Forms.Button buttonBack;
     }
 }

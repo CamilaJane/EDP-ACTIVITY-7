@@ -16,7 +16,7 @@ namespace LogIn_Form
     public partial class Dashboard : Form
     {
         public Dashboard()
-        {
+        { 
             InitializeComponent();
         }
 

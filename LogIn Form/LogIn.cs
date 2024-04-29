@@ -70,9 +70,9 @@ namespace LogIn_Form
                     updateCmd.ExecuteNonQuery();
 
                     // MessageBox.Show("You are now logged in");
-                    var home = new Dashboard();
+                    Dashboard dashboard = new Dashboard();
                     this.Hide();
-                    home.Show();
+                    dashboard.Show();
                 }
                 else
                 {
